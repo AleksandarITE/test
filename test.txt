@@ -1,0 +1,9 @@
+Zdravo svete!
+
+
+Nova izmena fajla.
+
+EDITORI
+
+Visual Studio Code.
+Atom.
